@@ -1,0 +1,5 @@
+export { Pagination } from './pagination/Pagination.component'
+export { Table } from './table/table.component'
+export { PerPageSelect } from './search-elements/per-page-select.component'
+export { SearchInput } from './search-elements/search-input.component'
+export { SearchSelects } from './search-elements/search-select.component'
